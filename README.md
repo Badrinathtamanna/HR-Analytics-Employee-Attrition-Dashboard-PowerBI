@@ -19,3 +19,7 @@ How to Use:
 1. Download the `.pbix` file: Download the 'HR Attrition Analysis Dashboard Power BI.pbix' file from this repository.
 2. Open in Power BI Desktop: Open the downloaded file in Power BI Desktop.
 3. Explore the dashboard: Interact with the filters and visualizations to explore the data in depth.
+
+Contact: Badrinath Tamanna 
+LinkedIn: www.linkedin.com/in/badrinath-tamanna 
+Email: badrinath.tamanna2@gmail.com
